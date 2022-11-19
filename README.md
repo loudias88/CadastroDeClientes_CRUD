@@ -21,9 +21,8 @@ HTML, CSS e Javascript.
 ![Cadastro de Cliente CRUD](https://user-images.githubusercontent.com/67832656/201762981-68c0185a-64c2-4c06-adcc-89a02acf03d4.gif)
 
 
-Como executar o projeto:
+Você pode acessar o projeto em: https://63795993e090c2392fbee9d1--silver-wisp-09b6bd.netlify.app/
 
-Faça download dos arquivos e execute o arquivo index.html.
 
 
 
