@@ -1,6 +1,6 @@
 # CadastroDeClientes_CRUD
 Proposta do Projeto:
-Neste projeto desenvolvi um CRUD (acrónimo do inglês Create, Read, Update and Delete) de cadastro de clientes, armazenando dados no Local Storage do HTML 5 usando JSON.
+Neste projeto desenvolvi um CRUD de cadastro de clientes, armazenando dados com localStorage.
 
 Layout
 Tabela
